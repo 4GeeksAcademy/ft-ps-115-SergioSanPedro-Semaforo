@@ -9,3 +9,39 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.soporteSemaforo {
+    background-color: black;
+    width: 5rem;
+    height: 10rem;
+}
+
+.semaforo {
+    background-color: black;
+    width: 25rem;
+    height: 45rem;
+}
+
+.red {
+    background-color: red !important;
+    box-shadow:
+        0 0 20px rgba(221, 222, 225, 0.8),
+        0 0 60px rgba(221, 222, 224, 0.6),
+        0 0 80px rgba(221, 221, 224, 0.4);
+}
+
+.orange {
+    background-color: orange !important;
+    box-shadow:
+        0 0 20px rgba(221, 222, 225, 0.8),
+        0 0 60px rgba(221, 222, 224, 0.6),
+        0 0 80px rgba(221, 221, 224, 0.4);
+}
+
+.green {
+    background-color: green !important;
+    box-shadow:
+        0 0 20px rgba(221, 222, 225, 0.8),
+        0 0 60px rgba(221, 222, 224, 0.6),
+        0 0 80px rgba(221, 221, 224, 0.4);
+}
