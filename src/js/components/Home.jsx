@@ -11,12 +11,7 @@ const Home = () => {
 
 	return (
 		<>
-
 			<Circulo/>
-			
-			
-
-
 		</>
 	);
 };
