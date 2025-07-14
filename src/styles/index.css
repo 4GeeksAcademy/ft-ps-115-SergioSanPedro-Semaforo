@@ -10,15 +10,21 @@
 
 */
 
+body{
+    background-image: url('https://img.lovepik.com/bg/20231213/traffic-light-on-a-street-by-night_2452984_wh860.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .soporteSemaforo {
     background-color: black;
     width: 5rem;
-    height: 8rem;
+    height: 5rem;
 }
 
 .semaforo {
     background-color: black;
-    width: 25rem;
+    width: 20rem;
     height: 45rem;
 }
 
